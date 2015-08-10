@@ -1,0 +1,26 @@
+.rh-forum-background {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.rh-forum-background-wave-1 {
+  background-color: hsl(357, 94%, 35%);
+  background-image:
+    url('background-images/RH_Summit_GlowWave1_Warm_RGB2.svg'),
+    radial-gradient(ellipse at center, hsl(357, 94%, 35%) 0%, hsl(357, 94%, 30%) 54%, hsl(357, 94%, 25%) 100%);
+}
+
+.rh-forum-background-wave-2 {
+  background-color: hsl(357, 94%, 35%);
+  background-image:
+    url('background-images/RH_Summit_GlowWave2_Warm_RGB2.svg'),
+    radial-gradient(ellipse at center, hsl(357, 94%, 35%) 0%, hsl(357, 94%, 30%) 54%, hsl(357, 94%, 25%) 100%);
+}
+
+.rh-forum-background-wave-3 {
+  background-color: hsl(251, 49%, 35%);
+  background-image:
+    url('background-images/RH_Summit_GlowWave3_Cool_RGB2.svg'),
+    radial-gradient(ellipse at center, hsl(251, 49%, 35%) 0%, hsl(251, 49%, 30%) 54%, hsl(251, 49%, 25%) 100%);
+}
